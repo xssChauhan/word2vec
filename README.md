@@ -6,7 +6,7 @@ This repository contains word2vec implementations in Python using:
  
     - [Continuous Bag of Words](https://github.com/xssChauhan/word2vec/blob/master/pytorch/CBOW.ipynb)
    
-    - Skip Gram(WIP)
+    - [SkipGram](https://github.com/xssChauhan/word2vec/blob/master/pytorch/Skip%20Gram.ipynb)
    
 2. Numpy(WIP)
 
